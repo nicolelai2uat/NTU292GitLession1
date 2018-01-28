@@ -33,3 +33,4 @@ NICOLE.LAI2UAT
 - 運動
 - 旅遊
 - 學新東西
+- 2nd
